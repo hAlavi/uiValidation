@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="error_msg">#ffff4829</color>
+    <color name="error_msg_f">#ffff48f5</color>
+    <color name="chb_color">#fff753ff</color>
+    <color name="hints">#bbbbbb</color>
+</resources>
